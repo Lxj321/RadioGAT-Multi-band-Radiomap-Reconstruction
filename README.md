@@ -10,7 +10,7 @@ Program running order：
 6. Run GAT_V2025.py
 
 Follow-up:
-1. Add details for different programs and files Readme
+1. Add details for different programs and files.
 
 **Acknoledgement**
 
