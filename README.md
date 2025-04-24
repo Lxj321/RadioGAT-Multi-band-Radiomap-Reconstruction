@@ -11,3 +11,15 @@ Program running order：
 
 Follow-up:
 1. Add details for different programs and files Readme
+
+**Acknoledgement**
+
+Please acknowledge the following paper if the code is useful for your research.
+
+X. Li et al., "RadioGAT: A Joint Model-Based and Data-Driven Framework for Multi-Band Radiomap Reconstruction via Graph Attention Networks," in IEEE Transactions on Wireless Communications, vol. 23, no. 11, pp. 17777-17792, Nov. 2024
+
+**Contact**
+
+Please contact Xiaojie Li for more information regarding the BRAT-Lab Dataset if you have any questions.
+
+Email: xiaojieli@nuaa.edu.cn.
