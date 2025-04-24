@@ -20,6 +20,6 @@ X. Li et al., "RadioGAT: A Joint Model-Based and Data-Driven Framework for Multi
 
 **Contact**
 
-Please contact Xiaojie Li for more information regarding the BRAT-Lab Dataset if you have any questions.
+Please contact Xiaojie Li for more information regarding the radiogat code if you have any questions.
 
 Email: xiaojieli@nuaa.edu.cn.
