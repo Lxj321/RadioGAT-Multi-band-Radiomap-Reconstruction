@@ -1,7 +1,7 @@
-Code for RadioGAT
+**Code for RadioGAT
 （Please ignore the commit message）
-
-Program running order：
+**
+**Program running order：**
 1. Run Data_read.py
 2. Run Radio_Depth_Generate.py
 3. Run NodeFeature_Generate.py
@@ -9,10 +9,10 @@ Program running order：
 5. Run Depth_Adj_Generate.py
 6. Run GAT_V2025.py
 
-Follow-up:
+**Follow-up:**
 1. Add details for different programs and files.
 
-**Acknoledgement**
+**Acknowledgement**
 
 Please acknowledge the following paper if the code is useful for your research.
 
