@@ -115,7 +115,7 @@ Num_Node_Max=1600
 for percent in [0.05]:
 	masklv=1-percent
 
-	method=0   #0Obsadj，1depadj,2Aroundadj,3TransmitterAdj
+	method=1   #0Obsadj，1depadj,2Aroundadj,3TransmitterAdj
 
 	toupiao=0#0不投票，1投票
 
