@@ -9,8 +9,12 @@
 4. Run Depth_Adj_Generate.py
 5. Run GAT_V2025.py
 
+If you use RadioGAT in other datasets. Please check if the hyperparameters in "Radio_Depth_Generate.py" and "Depth_Adj_Generate.py" are suitable.
+
+
 **Follow-up:**
 1. Add details for different programs and files.
+2. Add other adjacency matrices such as adjacency-based, environment-based and transmitter-based methods.
 
 **Acknowledgement**
 
