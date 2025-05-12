@@ -246,7 +246,7 @@ for percent in [0.05]:
 					All_Adj[j,i,0:N_Node[i],0:N_Node[i]]=np.loadtxt('ObstructionAdj_6_40/{}/{}_{}.txt'.format(AreaIndex+1,m+1,n+1),dtype=int)
 				else:
 					if method==1:
-						All_Adj[j,i,0:N_Node[i],0:N_Node[i]]=np.loadtxt('FreqDepth0.1_3/{}/{}/{}_{}.txt'.format(AreaIndex+1,Carry_Freq[j],m+1,n+1),dtype=int)
+						All_Adj[j,i,0:N_Node[i],0:N_Node[i]]=np.loadtxt('FreqDepth0.1_3/{}/{}/{}_{}.txt'.format(AreaIndex+1,Carry_Freq[j],m+1,n+1),dtype=int) #Here, you can modify FreqDepth0.1_3 to FreqDepth0.1 which you generated
 					else:
 						if method==2:
 							All_Adj[j,i,0:N_Node[i],0:N_Node[i]]=np.loadtxt('AroundAdj40/{}/{}_{}.txt'.format(AreaIndex+1,m+1,n+1),dtype=int)
